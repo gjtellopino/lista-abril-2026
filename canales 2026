@@ -1,15 +1,13 @@
 EXTM3U
-#EXTINF:-1 tvg-name="TV4 Noticias" tvg-logo="https://tv4noticias.com/wp-content/themes/tv4/img/logo.png" group-title="NACIONAL",4 N0ticias
-https://5fc584f3f19c9.streamlock.net/tv4/_definst_/smil:tv4.smil/chunklist_w269482876_b448000.m3u8
 #EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="NACIONAL",8 Ntv
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="NACIONAL",10 Hd
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/chunklist_w848490719.m3u8
-#EXTINF:-1 tvg-id="Canal33" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="NACIONAL",33.2
+#EXTINF:-1 tvg-id="Canal33" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="NACIONAL",33x2
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="NACIONAL",44
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/chunklist_w293830450.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI2IDg6NDA6MTMgUE0maGFzaF92YWx1ZT1GREdFVU4rQXhEQWllaU95aWc4VTlBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
-#EXTINF:-1 tvg-id="360 RFTV" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Peliculas",360 RFTV
+#EXTINF:-1 tvg-id="360 RFTV" tvg-logo="" group-title="Peliculas",360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-id="A Mas" tvg-logo="" group-title="NACIONAL",A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -91,22 +89,6 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&Playlis
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-name="Extrema Kids" tvg-logo="https://image.roku.com/developer_channels/prod/685354bd84f85fe39c7ecae45018ccb60011681ba7838fd841e3f2392f4f6249.png" group-title="Niños",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="Películas",Freetv Acción
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Cine Real - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="Películas",Freetv Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Chiquilines - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1279_Chiquilines___Freetv_com.png" group-title="Películas",Freetv En Vivo
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Tu Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="Películas",Freetv Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Juntos - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png" group-title="Películas",Freetv Familia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png" group-title="Películas",Freetv Sabre Mas
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Cine Sureño - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1278_Cine_Sureno___Freetv_com.png" group-title="Películas",Freetv Sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Horrorfy - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1276_Horrorfy___Freetv_com.png" group-title="Películas",Freetv Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="G Vision" tvg-logo="https://cdn.m3u.cl/logo/69_G_Vision.png" group-title="Niños",G Vision
 https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="ICRTV Colima" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.png" group-title="NACIONAL",ICRTV
